@@ -8,15 +8,15 @@ self.__precacheManifest = [
     "url": "/geopoint/js/chunk-vendors.378814a5.js"
   },
   {
-    "revision": "52b21a422f8d15981271",
-    "url": "/geopoint/js/app.9db0573f.js"
+    "revision": "ddd901ab5fbcd06f2e7d",
+    "url": "/geopoint/js/app.869dd56a.js"
   },
   {
-    "revision": "075816ecae1d714fdbddfa056213e40d",
+    "revision": "3103995445a1c4b2db61f95b242d8e61",
     "url": "/geopoint/index.html"
   },
   {
-    "revision": "52b21a422f8d15981271",
+    "revision": "ddd901ab5fbcd06f2e7d",
     "url": "/geopoint/css/app.23cf8d33.css"
   }
 ];
