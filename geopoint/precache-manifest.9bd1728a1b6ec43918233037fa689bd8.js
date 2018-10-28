@@ -8,11 +8,11 @@ self.__precacheManifest = [
     "url": "/geopoint/js/chunk-vendors.378814a5.js"
   },
   {
-    "revision": "371551390cacf935cfba",
-    "url": "/geopoint/js/app.3ef34c97.js"
+    "revision": "63e6191aea4be1fea56a",
+    "url": "/geopoint/js/app.5b8a5f41.js"
   },
   {
-    "revision": "ad53540a0ac58e39a8ccce4ddecfabdb",
+    "revision": "ede7742cb3f59a1c81e70659b41d5dde",
     "url": "/geopoint/index.html"
   },
   {
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/geopoint/img/europe.1651425f.svg"
   },
   {
-    "revision": "371551390cacf935cfba",
+    "revision": "63e6191aea4be1fea56a",
     "url": "/geopoint/css/app.08a3806e.css"
   }
 ];
