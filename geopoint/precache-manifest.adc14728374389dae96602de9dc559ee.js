@@ -8,11 +8,11 @@ self.__precacheManifest = [
     "url": "/geopoint/js/chunk-vendors.378814a5.js"
   },
   {
-    "revision": "4067d8431ccb5e0a78d5",
-    "url": "/geopoint/js/app.fc47ff4d.js"
+    "revision": "5b4e53e19a677d5c222a",
+    "url": "/geopoint/js/app.61dfbca7.js"
   },
   {
-    "revision": "78d6731350f6069ca5d1679fccf0c4e7",
+    "revision": "f2a823443590806ead7b644fc0e8e716",
     "url": "/geopoint/index.html"
   },
   {
@@ -20,7 +20,11 @@ self.__precacheManifest = [
     "url": "/geopoint/img/europe.1651425f.svg"
   },
   {
-    "revision": "4067d8431ccb5e0a78d5",
-    "url": "/geopoint/css/app.36105925.css"
+    "revision": "4bfa11f2bfb64fc9a87472104360de0d",
+    "url": "/geopoint/img/africa.4bfa11f2.svg"
+  },
+  {
+    "revision": "5b4e53e19a677d5c222a",
+    "url": "/geopoint/css/app.5d0cea3a.css"
   }
 ];
