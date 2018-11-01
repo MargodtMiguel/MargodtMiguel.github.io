@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/geopoint/precache-manifest.50a78a3ba864a2858d9887b3b5b9ab06.js"
+  "/geopoint/precache-manifest.5736510ebd593f05fb4f2327997ed255.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "geopoint"});
