@@ -1,8 +1,8 @@
 {
   "name": "angular-app",
   "short_name": "angular-app",
-  "theme_color": "#C74747",
-  "background_color": "#C74747",
+  "theme_color": "#01D277",
+  "background_color": "#FFF",
   "display": "standalone",
   "scope": "/",
   "start_url": "/",
