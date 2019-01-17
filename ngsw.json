@@ -9,7 +9,7 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main.870d32565b4e6fe62ba9.js",
+        "/main.de8b660217bfde7bf8b6.js",
         "/polyfills.fec146f4472ee5fb9cac.js",
         "/runtime.ec2944dd8b20ec099bf3.js",
         "/styles.ee05a8a3712d4bf447fb.css"
@@ -70,8 +70,8 @@
     "/assets/icons/search.svg": "fec2300c54b62e231a4ac4172879986fe4c0c957",
     "/assets/placeholder.png": "71a547b9624c40dd859fa17ec61c0f1642bddc65",
     "/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "/index.html": "5862a6072ed2afcefc1aae591980daa619be6cc0",
-    "/main.870d32565b4e6fe62ba9.js": "7b7e2465b4871aa57d7123ba5383d960dd541289",
+    "/index.html": "6027a87619bf8dda2d98eb3132a7c4d90119b9d3",
+    "/main.de8b660217bfde7bf8b6.js": "cde2f67582399b64895ade4cd65c5ae3b4f73e2b",
     "/polyfills.fec146f4472ee5fb9cac.js": "f5c688c6cdf730d54759e30839fbd417dbe38e31",
     "/runtime.ec2944dd8b20ec099bf3.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
     "/styles.ee05a8a3712d4bf447fb.css": "0ca1bd0d6a0df6cbd847664433a570192e0afe49"
