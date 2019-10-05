@@ -85,7 +85,7 @@ h2::selection{
 
 .mm-image{
     max-width:100%;
-    height:100vh;
+    height:calc(100vh - 2rem);
     display:flex;
     align-items: center;
     padding-left:2rem;
